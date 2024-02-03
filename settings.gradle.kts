@@ -16,6 +16,12 @@ dependencyResolutionManagement {
     repositories {
         google()
         mavenCentral()
+
+        maven {setUrl("https://developer.huawei.com/repo/")}
+        maven {setUrl("https://dl.google.com/dl/android/maven2/")}
+        maven {setUrl("https://www.jitpack.io")}
+        maven {setUrl("https://maven.aliyun.com/repository/google")}
+        maven {setUrl("https://maven.aliyun.com/repository/jcenter")}
     }
 }
 

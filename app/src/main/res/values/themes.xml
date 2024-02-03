@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.AndroidTech" parent="Theme.AppCompat.Light.NoActionBar" >
+        <!-- 设置默认背景颜色 -->
+        <item name="android:windowBackground">@color/defaultBackgroundColor</item>
+    </style>
+
+</resources>
